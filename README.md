@@ -41,10 +41,10 @@
 | [LucachuTW/GRIA-TestCreator](https://github.com/LucachuTW/GRIA-TestCreator) | 2 |
 | [GRIA-TestCreator](https://github.com/daor95/GRIA-TestCreator) | 2 |
 | [tasador-24](https://github.com/daor95/tasador-24) | 2 |
+| [daor95](https://github.com/daor95/daor95) | 1 |
 | [curso-git-github-uvm-22-23](https://github.com/daor95/curso-git-github-uvm-22-23) | 0 |
-| [daor95](https://github.com/daor95/daor95) | 0 |
 | [daor95.github.io](https://github.com/daor95/daor95.github.io) | 0 |
-| Total | 405 |
+| Total | 406 |
 
 ## Collaborators
 
