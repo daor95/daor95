@@ -184,6 +184,22 @@
       "116091929": "usbt0p"
     }
   },
+  "https://github.com/daor95/daor95": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 0,
+    "userIssues": 0,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 104,
+    "userCommits": 2,
+    "languages": {
+      "Python": 21834
+    },
+    "contributors": {
+      "114857078": "SantiagoRR2004"
+    }
+  },
   "https://github.com/daor95/tasador-24": {
     "stars": 0,
     "forks": 0,
@@ -198,22 +214,6 @@
     },
     "contributors": {
       "6004566": "ribadas-uvigo"
-    }
-  },
-  "https://github.com/daor95/daor95": {
-    "stars": 0,
-    "forks": 0,
-    "issues": 0,
-    "userIssues": 0,
-    "pullRequests": 0,
-    "userPullRequests": 0,
-    "commits": 103,
-    "userCommits": 1,
-    "languages": {
-      "Python": 21834
-    },
-    "contributors": {
-      "114857078": "SantiagoRR2004"
     }
   },
   "https://github.com/daor95/curso-git-github-uvm-22-23": {
