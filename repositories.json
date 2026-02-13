@@ -146,13 +146,39 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 105,
-    "userCommits": 3,
+    "commits": 106,
+    "userCommits": 4,
     "languages": {
       "Python": 21834
     },
     "contributors": {
       "114857078": "SantiagoRR2004"
+    }
+  },
+  "https://github.com/SantiagoRR2004/Agentes": {
+    "stars": 0,
+    "forks": 0,
+    "issues": 7,
+    "userIssues": 2,
+    "pullRequests": 0,
+    "userPullRequests": 0,
+    "commits": 147,
+    "userCommits": 3,
+    "languages": {
+      "ASL": 122690,
+      "PlantUML": 4770,
+      "Java": 3946,
+      "Shell": 2679
+    },
+    "contributors": {
+      "114857078": "SantiagoRR2004",
+      "12997034": "jcgmoreno64",
+      "116091929": "usbt0p",
+      "65916846": "actions-user",
+      "116967182": "NicolGallo",
+      "150667501": "BraisFernandezCaride",
+      "117861842": "braisIA",
+      "150940164": "samuelalvarez034"
     }
   },
   "https://github.com/LucachuTW/GRIA-TestCreator": {
