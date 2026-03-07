@@ -36,7 +36,7 @@
 | [usbt0p/enxsof_proyect](https://github.com/usbt0p/enxsof_proyect) | 122 |
 | [python-components](https://github.com/daor95/python-components) | 60 |
 | [java-components](https://github.com/daor95/java-components) | 35 |
-| [daor95](https://github.com/daor95/daor95) | 24 |
+| [daor95](https://github.com/daor95/daor95) | 25 |
 | [SantiagoRR2004/Hackathon](https://github.com/SantiagoRR2004/Hackathon) | 14 |
 | [SantiagoRR2004/APAU_II-FineTuning](https://github.com/SantiagoRR2004/APAU_II-FineTuning) | 13 |
 | [curso-git-github-dao](https://github.com/daor95/curso-git-github-dao) | 12 |
@@ -47,7 +47,7 @@
 | [tasador-24](https://github.com/daor95/tasador-24) | 2 |
 | [curso-git-github-uvm-22-23](https://github.com/daor95/curso-git-github-uvm-22-23) | 0 |
 | [daor95.github.io](https://github.com/daor95/daor95.github.io) | 0 |
-| Total | 432 |
+| Total | 433 |
 
 ## Collaborators
 
