@@ -16,17 +16,18 @@
 
 | <img width="1000"><br><p align="center">Language | <img width="1000" height="1"><br><p align="center">Bytes | <img width="1000" height="1"><br><p align="center">Percentage |
 |:----------|:----------:|----------:|
-| [Python](https://github.com/search?q=user:daor95+language:Python) | 602.4 kB | 53.88% |
-| [Java](https://github.com/search?q=user:daor95+language:Java) | 304.8 kB | 27.26% |
-| [ASL](https://github.com/search?q=user:daor95+language:ASL) | 119.8 kB | 10.72% |
-| [JavaScript](https://github.com/search?q=user:daor95+language:JavaScript) | 47.8 kB | 4.27% |
-| [C](https://github.com/search?q=user:daor95+language:C) | 14.9 kB | 1.34% |
-| [C++](https://github.com/search?q=user:daor95+language:C++) | 13.0 kB | 1.16% |
-| [Shell](https://github.com/search?q=user:daor95+language:Shell) | 6.9 kB | 0.62% |
-| [PlantUML](https://github.com/search?q=user:daor95+language:PlantUML) | 4.7 kB | 0.42% |
-| [CSS](https://github.com/search?q=user:daor95+language:CSS) | 2.9 kB | 0.26% |
-| [HTML](https://github.com/search?q=user:daor95+language:HTML) | 852.0 B | 0.07% |
-| Total | 1.1 MB | 100.00% |
+| [Python](https://github.com/search?q=user:daor95+language:Python) | 911.2 kB | 61.09% |
+| [Java](https://github.com/search?q=user:daor95+language:Java) | 304.8 kB | 20.43% |
+| [ASL](https://github.com/search?q=user:daor95+language:ASL) | 119.8 kB | 8.03% |
+| [TeX](https://github.com/search?q=user:daor95+language:TeX) | 64.7 kB | 4.34% |
+| [JavaScript](https://github.com/search?q=user:daor95+language:JavaScript) | 47.8 kB | 3.20% |
+| [C](https://github.com/search?q=user:daor95+language:C) | 14.9 kB | 1.00% |
+| [C++](https://github.com/search?q=user:daor95+language:C++) | 13.0 kB | 0.87% |
+| [Shell](https://github.com/search?q=user:daor95+language:Shell) | 6.9 kB | 0.46% |
+| [PlantUML](https://github.com/search?q=user:daor95+language:PlantUML) | 4.7 kB | 0.31% |
+| [CSS](https://github.com/search?q=user:daor95+language:CSS) | 2.9 kB | 0.20% |
+| [HTML](https://github.com/search?q=user:daor95+language:HTML) | 852.0 B | 0.06% |
+| Total | 1.5 MB | 100.00% |
 
 ## Repositories
 
@@ -34,7 +35,7 @@
 |:----------|----------:|
 | [book-exercise-docs](https://github.com/daor95/book-exercise-docs) | 136 |
 | [usbt0p/enxsof_proyect](https://github.com/usbt0p/enxsof_proyect) | 122 |
-| [daor95](https://github.com/daor95/daor95) | 63 |
+| [daor95](https://github.com/daor95/daor95) | 64 |
 | [python-components](https://github.com/daor95/python-components) | 60 |
 | [java-components](https://github.com/daor95/java-components) | 35 |
 | [SantiagoRR2004/Hackathon](https://github.com/SantiagoRR2004/Hackathon) | 14 |
@@ -44,10 +45,11 @@
 | [SantiagoRR2004/Agentes](https://github.com/SantiagoRR2004/Agentes) | 3 |
 | [LucachuTW/GRIA-TestCreator](https://github.com/LucachuTW/GRIA-TestCreator) | 2 |
 | [GRIA-TestCreator](https://github.com/daor95/GRIA-TestCreator) | 2 |
+| [SAE](https://github.com/daor95/SAE) | 2 |
 | [tasador-24](https://github.com/daor95/tasador-24) | 2 |
 | [curso-git-github-uvm-22-23](https://github.com/daor95/curso-git-github-uvm-22-23) | 0 |
 | [daor95.github.io](https://github.com/daor95/daor95.github.io) | 0 |
-| Total | 471 |
+| Total | 474 |
 
 ## Collaborators
 
