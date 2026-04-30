@@ -39,8 +39,8 @@
     "userIssues": 0,
     "pullRequests": 0,
     "userPullRequests": 0,
-    "commits": 180,
-    "userCommits": 78,
+    "commits": 181,
+    "userCommits": 79,
     "languages": {
       "Python": 21834
     },
@@ -137,7 +137,7 @@
     "issues": 6,
     "userIssues": 0,
     "pullRequests": 1,
-    "userPullRequests": 0,
+    "userPullRequests": 1,
     "commits": 62,
     "userCommits": 7,
     "languages": {
