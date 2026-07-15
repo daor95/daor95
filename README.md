@@ -33,7 +33,7 @@
 
 | <img width="1000"><br><p align="center">Repository | <img width="1000" height="1"><br><p align="center">Commits  |
 |:----------|----------:|
-| [daor95](https://github.com/daor95/daor95) | 154 |
+| [daor95](https://github.com/daor95/daor95) | 155 |
 | [book-exercise-docs](https://github.com/daor95/book-exercise-docs) | 136 |
 | [usbt0p/enxsof_proyect](https://github.com/usbt0p/enxsof_proyect) | 122 |
 | [python-components](https://github.com/daor95/python-components) | 60 |
@@ -49,7 +49,7 @@
 | [tasador-24](https://github.com/daor95/tasador-24) | 2 |
 | [curso-git-github-uvm-22-23](https://github.com/daor95/curso-git-github-uvm-22-23) | 0 |
 | [daor95.github.io](https://github.com/daor95/daor95.github.io) | 0 |
-| Total | 564 |
+| Total | 565 |
 
 ## Collaborators
 
